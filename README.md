@@ -102,14 +102,14 @@ cd project-overrun-advisor
 pip install -r requirements.txt
 
 3. Launch the Streamlit app:
-streamlit run app/streamlit_app.py
+streamlit run app/app.py
 
 ## File Structure
 
 - `notebooks/`: Project notebook with full modeling pipeline
 - `app/`: Streamlit application
 - `data/`: Sample or sanitized input CSV file
-- `reports/`: Final project report and presentation
+- `reports/`: Final project report
 - `requirements.txt`: Python dependencies
 - `.gitignore`: Standard exclusions for Python projects
 
