@@ -95,7 +95,7 @@ The system includes a Streamlit-based web application with the following capabil
 ## How to Run
 
 1. Clone this repository:
-git clone https://github.com/yourusername/project-overrun-advisor.git
+git clone https://github.com/sdv1708/project-overrun-advisor.git
 cd project-overrun-advisor
 
 2. Install dependencies:
